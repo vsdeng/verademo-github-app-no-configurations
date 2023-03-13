@@ -27,7 +27,7 @@ Blab-a-Gag is a fairly simple forum type application which allows:
 `/tools` shows a tools page that shows a fortune or lets you ping a host.
 
 
-## Build
+## Buildawef
 
 To build Verademo [Maven](https://maven.apache.org) is required.
 
